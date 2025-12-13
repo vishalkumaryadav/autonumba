@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "autonumba"
+version = "0.0.1"
+description = "Aggressively auto-inject Numba @njit into Python codebases"
+authors = [{name = "Soumalya"}]
+license = "MIT"
+dependencies = ["numba", "rich"]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+autonumba = "autonumba.__main__:main"
