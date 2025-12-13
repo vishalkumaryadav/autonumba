@@ -93,4 +93,4 @@ Flags are **enabled by default**. Pass flags to selectively override defaults.
 
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Build Status]([https://img.shields.io/badge/build-passing](https://img.shields.io/badge/build-passing)
+![Build Status](https://img.shields.io/badge/build-passing)
