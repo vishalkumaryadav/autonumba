@@ -38,7 +38,7 @@ def build_and_install():
     if not wheels:
         raise RuntimeError("❌ No wheel found in dist folder!")
     latest_wheel = max(wheels, key=os.path.getmtime)
-    run_capture([sys.executable, "-m", "pip", "install", "--user", "--upgrade", str(latest_wheel)], "Installing wheel")
+    run_capture([sys.executable, "-m", "pip", "install", "--upgrade", str(latest_wheel)], "Installing wheel")
 
 def fix_boosted_file(path: Path):
     boosted = path.with_name(path.stem + "_autonumba.py")

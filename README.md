@@ -63,6 +63,12 @@ Disable Rich output (for Windows encoding issues):
 python -m autonumba src -nr
 ```
 
+Nuitka compile to EXE after boost:
+
+```bash
+python -m autonumba main.py -cm
+```
+
 ## CLI Flags 🏷️
 
 | Flag              | Description                                      |
@@ -74,6 +80,7 @@ python -m autonumba src -nr
 | -n, --nogil       | 🛠 Release GIL                                   |
 | -b, --boundscheck | 📏 Enable bounds checking                        |
 | --aot             | 🚀 Force ahead-of-time compilation into binaries |
+| -cm, --compile    | 🖥 Nuitka compile to EXE after boost             |
 | -nr, --no-rich    | ❌ Disable rich output / emojis                   |
 
 Flags are **enabled by default**. Pass flags to selectively override defaults.
@@ -93,4 +100,4 @@ Flags are **enabled by default**. Pass flags to selectively override defaults.
 
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Build Status](https://img.shields.io/badge/build-passing)
+![Build Status]([https://img.shields.io/badge/build-pass](https://img.shields.io/badge/build-pass)
